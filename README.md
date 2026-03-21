@@ -9,7 +9,7 @@ CODE_ORGANIZATION: code-sena
 <h1 align="center">Santiago Javela Ospino</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=SantiagoJavelaOspino&label=PROFILE%20VIEWS&style=for-the-badge&color=blue" alt="SantiagoJavelaOspino views" />
 </p>
 
 ---
