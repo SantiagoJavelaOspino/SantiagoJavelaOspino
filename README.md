@@ -40,4 +40,4 @@ CODE_ORGANIZATION: code-sena
 - **Epic Games:** [Epic Games](https://www.epicgames.com)
 - **Discord:** [depre??ed](https://discord.com/users/968925317974589472)
 
-  <video src="https://share.creavite.co/69beb5e623fb2ac1572c737e.gif" width="100%" autoplay loop muted></video>
+  <video src="https://share.creavite.co/69beb5e623fb2ac1572c737e.mp4" width="100%" autoplay loop muted></video>
