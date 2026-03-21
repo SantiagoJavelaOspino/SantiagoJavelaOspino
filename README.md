@@ -24,29 +24,18 @@ CODE_ORGANIZATION: code-sena
  
 ---
  
-## 🎯 Gustos
+## 📌 Gustos
  
-| # | Gusto | Detalle |
-|---|-------|---------|
-| 1 | 📚 Estudiar | Me apasiona aprender y adquirir nuevos conocimientos |
-| 2 | 🎮 Gamer | El mundo de los videojuegos es parte de mi vida |
-| 3 | 🎱 Jugar Billar | Un deporte que combina estrategia y precisión |
- 
-> 🏆 **Jugador favorito de Billar:** Shane Van Boening
-> *Uno de los mejores jugadores de billar de todos los tiempos.*
+- **Estudiar:** Me apasiona aprender y adquirir nuevos conocimientos
+- **Gamer:** El mundo de los videojuegos es parte de mi vida
+- **Jugar Billar:** Un deporte que combina estrategia y precisión
+  - 🏆 **Jugador favorito:** Shane Van Boening
  
 ---
  
 ## 🌐 Redes Sociales
  
-| Plataforma | Enlace / Usuario |
-|------------|-----------------|
-| 📘 **Facebook** | facebook.com |
-| 🎮 **Steam** | store.steampowered.com |
-| 🟣 **Epic Games** | epicgames.com |
-| 💬 **Discord** | discord.com |
- 
----
- 
-*¡Gracias por conocerme! 🙌*
- 
+- **Facebook:** [Facebook](https://www.facebook.com)
+- **Steam:** [depre??ed](https://store.steampowered.com)
+- **Epic Games:** [Epic Games](https://www.epicgames.com)
+- **Discord:** [Discord](https://www.discord.com)
