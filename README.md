@@ -36,6 +36,6 @@ CODE_ORGANIZATION: code-sena
 ## 🌐 Redes Sociales
  
 - **Facebook:** [Facebook](https://www.facebook.com)
-- **Steam:** [depre??ed](https://store.steampowered.com)
+- **Steam:** [depre??ed](https://steamcommunity.com/profiles/76561199499676633/)
 - **Epic Games:** [Epic Games](https://www.epicgames.com)
-- **Discord:** [Discord](https://www.discord.com)
+- **Discord:** [depre??ed](https://discord.com/users/968925317974589472)
