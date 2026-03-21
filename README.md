@@ -40,4 +40,4 @@ CODE_ORGANIZATION: code-sena
 - **Epic Games:** [Epic Games](https://www.epicgames.com)
 - **Discord:** [depre??ed](https://discord.com/users/968925317974589472)
 
-![Banner Animado](https://share.creavite.co/69beb5e623fb2ac1572c737e.gif)
+![Banner Animado](./standard.gif)
