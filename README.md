@@ -37,7 +37,7 @@ CODE_ORGANIZATION: code-sena
  
 - **Facebook:** [Facebook](https://www.facebook.com)
 - **Steam:** [depre??ed](https://steamcommunity.com/profiles/76561199499676633/)
-- **Epic Games:** [Epic Games](https://www.epicgames.com)
+- **Epic Games:** [0aneK](https://www.epicgames.com)
 - **Discord:** [depre??ed](https://discord.com/users/968925317974589472)
 
 ![Banner Animado](./standard.gif)
