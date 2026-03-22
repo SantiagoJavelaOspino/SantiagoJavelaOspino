@@ -21,11 +21,6 @@ CODE_ORGANIZATION: code-sena
 - **Organización institucional:** [code-sena](https://github.com/code-sena)
 
 
-<p align="center">
-  <img src="./undefined - Imgur.gif" width="300" alt="gif perfil" />
-</p>
-
-
   Presentación Personal
  
 ---
